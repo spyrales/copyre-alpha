@@ -7,7 +7,7 @@
 
 * Durant la période de confinement en raison du Covid-19, nous ne pouvons pas accéder à toutes les données sur lesquelles nous travaillons au quotidien et certains de nos travaux se voient repoussés.
 
-* Nous souhaitons mettre à profit le temps qu'il nous reste pour nous auto-former et/ou aider nos collègues intéressé.e.s à se former aux languages python et/ou R, initier des projets en commun entre agents publics en rapport avec R. Nous n'avons pas tous du matériel informatique mis à disposition par notre employeur mais nous sommes néanmoins volontaires pour utiliser notre matériel informatique personnel pour travailler.
+* Nous souhaitons mettre à profit le temps disponible pour nous auto-former et/ou aider nos collègues intéressé.e.s à se former aux languages python et/ou R, initier des projets en commun entre agents publics en rapport avec R. Nous n'avons pas tous du matériel informatique mis à disposition par notre employeur mais nous sommes néanmoins volontaires pour utiliser notre matériel informatique personnel pour travailler.
 
 ## Actions envisagées
 
