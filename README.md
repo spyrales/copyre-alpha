@@ -7,11 +7,7 @@
 
 * Durant la période de confinement en raison du Covid-19, nous ne pouvons pas accéder à toutes les données sur lesquelles nous travaillons au quotidien et certains de nos travaux se voient repoussés.
 
-<<<<<<< HEAD
-* Nous souhaitons mettre à profit le temps disponible pour nous auto-former et/ou aider nos collègues intéressé.e.s à se former aux languages python et/ou R, initier des projets en commun entre agents publics en rapport avec R. 
-=======
-* Nous souhaitons mettre à profit le temps disponible pour nous auto-former et/ou aider nos collègues intéressé.e.s à se former aux languages python et/ou R, initier des projets en commun entre agents publics en rapport avec R et/ou python. Nous n'avons pas tous du matériel informatique mis à disposition par notre employeur mais nous sommes néanmoins volontaires pour utiliser notre matériel informatique personnel pour travailler.
->>>>>>> f47277795ae8e33d28ad2c60c28d2e2c02a202b2
+* Nous souhaitons mettre à profit le temps disponible pour nous auto-former et/ou aider nos collègues à se former aux languages Python et/ou R, initier des projets en commun entre agents publics en rapport avec ces deux languages.
 
 * Nous créons une communauté d'entraide bienveillante et ouverte.
 
